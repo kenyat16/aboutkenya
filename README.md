@@ -13,10 +13,10 @@ I'm an Aerospace Engineering student with a passion for coding simulations, expl
 My core skills and tools:
 Python | MATLAB | NumPy | Matplotlib | Git | Jupyter Notebooks
 
-📈 Projects I'm building:
-- 🚀 [Projectile Motion Simulator]
-- 📊 Data visualization tools for aerospace data
-- 🛰️ Orbital mechanics explorer (coming soon!
+ Projects I'm working on:
+-  Projectile Motion Simualtor
+-  Data visualization tools for aerospace data
+-  Orbital mechanics explorer (coming soon)!
 
  I'm using GitHub to:
 - Document and track my learning
