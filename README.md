@@ -14,7 +14,7 @@ My core skills and tools:
 Python | MATLAB | NumPy | Matplotlib | Git | Jupyter Notebooks
 
  Projects I'm working on:
--  Projectile Motion Simualtor
+-  Projectile Motion Simulator
 -  Data visualization tools for aerospace data
 -  Orbital mechanics explorer (coming soon)!
 
